@@ -8,7 +8,7 @@
 - Prompt Engineering for optimal use of AI Tools like Bing Chat, ChatGPT, and Midjourney
 
 💬 **Ask me about:** 
-I am a Senior Microsoft 365 Consultant with deep dives into topics like Azure AD Conditional Access.
+I am a Senior Microsoft 365 Consultant with deep dives into topics like Microsoft Entra Conditional Access.
 
 📫 **How to reach me:**
 - 🐦 [Twitter](https://twitter.com/philipp_kohn)
