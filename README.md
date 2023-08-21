@@ -14,8 +14,6 @@ I am a Senior Microsoft 365 Consultant with deep dives into topics like Microsof
 - 🐦 [Twitter](https://twitter.com/philipp_kohn)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/philippkohn/)
 
-😄 **Pronouns:** he/him
-
 ⚡ **Fun fact:** I'm always amazed by the complexities of computers and often wonder how this awesome machine actually works! 😂
 
 🎮 **Hobbies & Interests:** 
